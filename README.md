@@ -1,3 +1,3 @@
-### Olá, eu sou o Bruno Medeiros 👋
+## Olá, eu sou o Bruno Medeiros 👋
 
-## Sou estudante de Desenvolvimento Web na Trybe #VQV 🚀
+### Sou estudante de Desenvolvimento Web na Trybe #VQV 🚀
