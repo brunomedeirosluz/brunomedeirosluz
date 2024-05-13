@@ -4,7 +4,7 @@ Olá! Meu nome é Bruno de Medeiros, e este é o meu repositório no GitHub. Sou
 
 ## Sobre Mim
 
-- 👨‍💻 Estagiário de Desenvolvimento na [PdCase](https://www.pdcase.com.br/)
+- 👨‍💻 Estagiário de Desenvolvimento na [PdCase](https://www.pdcase.com/index.html)
 - 🎓 Formado em Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 📚 Estudante de Sistemas de Informação na [Una](https://www.una.br/)
 
