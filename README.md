@@ -12,5 +12,5 @@ Olá! Meu nome é Bruno de Medeiros, e este é o meu repositório no GitHub. Sou
 
 - **Front-end:** HTML, CSS, TypeScript, Angular, React.
 - **Back-end:** Java, NodejS.
-- **Outras Ferramentas:** Git,Express, Docker, GitHub, GitLab.
+- **Outras Ferramentas:** Git,Express, Docker, GitHub, GitLab, Figma.
 - **Bibliotecas:** BootStrap, SweetAlert2, ChartJs.
